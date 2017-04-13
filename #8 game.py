@@ -1,3 +1,4 @@
+# use while loop to control a game 
 print ("\nLet us play Rock-Paper-Scissors game.\nInput 1 for rock, 2 for paper, 3 forScissors\n")
 quit = input('Type "enter" to quit, other to start: ' )
 while quit != "enter":

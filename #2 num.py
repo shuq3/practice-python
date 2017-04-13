@@ -1,4 +1,5 @@
 # input if types int equality comparison numbers mod
+# odd or even
 num = (int(input("Inuput a number:")))
 check = (int(input("Inuput another number:")))
 if num % 2 == 1:

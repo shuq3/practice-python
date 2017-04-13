@@ -1,3 +1,4 @@
+# use while loop to control a game
 import random
 
 right = random.randint(0, 9)

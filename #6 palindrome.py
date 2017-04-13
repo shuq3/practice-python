@@ -1,3 +1,4 @@
+# check whether a str is a palindrome
 string = input("Input a str: ")
 num = len(string) - 1
 half = num / 2
