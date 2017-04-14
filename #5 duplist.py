@@ -21,3 +21,10 @@ for item in a:
         mylist.append(item)
 
 print (mylist)
+
+
+
+## remove duplicated element
+# a = [1, 1, 2, 3, 2]
+# b = set(a);
+# a = list(b);
